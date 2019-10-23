@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gaidonghai/nexRequest/issues"
   },
-  "homepage": "https://github.com/gaidonghai/nexRequest#readme"
+  "homepage": "https://github.com/gaidonghai/nexRequest#readme",
+  "dependencies": {
+    "retry-request": "^4.1.1"
+  }
 }
