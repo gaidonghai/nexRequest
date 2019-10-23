@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gaidonghai/nexRequest#readme",
   "dependencies": {
+    "request": "^2.88.0",
     "retry-request": "^4.1.1"
   }
 }
