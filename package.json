@@ -1,0 +1,19 @@
+{
+  "name": "nexrequest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaidonghai/nexRequest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaidonghai/nexRequest/issues"
+  },
+  "homepage": "https://github.com/gaidonghai/nexRequest#readme"
+}
